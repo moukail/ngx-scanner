@@ -1,0 +1,86 @@
+{
+  "configVersion": 1,
+  "timestamp": 1579274110963,
+  "index": "/ngx-scanner/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/ngx-scanner/favicon.ico",
+        "/ngx-scanner/index.html",
+        "/ngx-scanner/main-es2015.6921f43cd60fcf15508e.js",
+        "/ngx-scanner/main-es5.e65109cb8c24d5f79d17.js",
+        "/ngx-scanner/polyfills-es2015.fc22aee4fbf951b1085c.js",
+        "/ngx-scanner/polyfills-es5.85aa24650d0a4061a0db.js",
+        "/ngx-scanner/runtime-es2015.858f8dd898b75fe86926.js",
+        "/ngx-scanner/runtime-es5.741402d1d47331ce975c.js",
+        "/ngx-scanner/styles.610aa3992ec62bbc5fa8.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/ngx-scanner/assets/icons/icon-128x128.png",
+        "/ngx-scanner/assets/icons/icon-144x144.png",
+        "/ngx-scanner/assets/icons/icon-152x152.png",
+        "/ngx-scanner/assets/icons/icon-16x16.png",
+        "/ngx-scanner/assets/icons/icon-192x192.png",
+        "/ngx-scanner/assets/icons/icon-32x32.png",
+        "/ngx-scanner/assets/icons/icon-384x384.png",
+        "/ngx-scanner/assets/icons/icon-512x512.png",
+        "/ngx-scanner/assets/icons/icon-72x72.png",
+        "/ngx-scanner/assets/icons/icon-96x96.png",
+        "/ngx-scanner/assets/icons/mstile-150x150.png",
+        "/ngx-scanner/assets/icons/safari-pinned-tab.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/ngx-scanner/assets/icons/icon-128x128.png": "842bdceef25f5740f200de22180141847b2f0b80",
+    "/ngx-scanner/assets/icons/icon-144x144.png": "58b1834a019ac1717860017605a8aea507d357b5",
+    "/ngx-scanner/assets/icons/icon-152x152.png": "40fbef2fb5ccb2b372fc999b8b85ce140d0941cd",
+    "/ngx-scanner/assets/icons/icon-16x16.png": "f29dd83494bacad509ab9209d0fe3bac590372f3",
+    "/ngx-scanner/assets/icons/icon-192x192.png": "87928464dba1d7c788c9f6de956f99947470a359",
+    "/ngx-scanner/assets/icons/icon-32x32.png": "f2e0a73c6d735cc1e3c2cb1ffa964b684326cdbf",
+    "/ngx-scanner/assets/icons/icon-384x384.png": "58fd074eca66c6223ad217c1c0c7d06880a08e53",
+    "/ngx-scanner/assets/icons/icon-512x512.png": "751e451c3df49031d4e76c4560eff56f1716a002",
+    "/ngx-scanner/assets/icons/icon-72x72.png": "58d6745b5ff885601c61c11e1775fc7b5f045e7f",
+    "/ngx-scanner/assets/icons/icon-96x96.png": "6ca29999af98f0cf163cde2ee82af440f8c7bac6",
+    "/ngx-scanner/assets/icons/mstile-150x150.png": "97db6b63f6214367fa49e266add632bc8af3f5a4",
+    "/ngx-scanner/assets/icons/safari-pinned-tab.svg": "03d482e5aa20cb76842fcf984d28cd65c0423987",
+    "/ngx-scanner/favicon.ico": "a2eaf72bbac9bea51761890d3665734f0bc390f4",
+    "/ngx-scanner/index.html": "fa94055bfb909811efbf4e8901c1586104d16124",
+    "/ngx-scanner/main-es2015.6921f43cd60fcf15508e.js": "14c51ed7516ced9a0f0202c260ffe7cebffd0529",
+    "/ngx-scanner/main-es5.e65109cb8c24d5f79d17.js": "37faaa9143d8f4051cf38907a04d3270440488d3",
+    "/ngx-scanner/polyfills-es2015.fc22aee4fbf951b1085c.js": "c6ae01d5c82a1b66cabe6a071cb88eb17ab551c4",
+    "/ngx-scanner/polyfills-es5.85aa24650d0a4061a0db.js": "3468dabf47dcd1e081f5ad529324db4ea4692952",
+    "/ngx-scanner/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/ngx-scanner/runtime-es5.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/ngx-scanner/styles.610aa3992ec62bbc5fa8.css": "6b878b101fcfb823aeaad885362f0fa054221232"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
