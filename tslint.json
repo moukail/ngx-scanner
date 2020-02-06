@@ -116,6 +116,18 @@
       "check-separator",
       "check-type"
     ],
+    "directive-selector": [
+      true,
+      "attribute",
+      "zxing",
+      "camelCase"
+    ],
+    "component-selector": [
+      true,
+      "element",
+      "zxing",
+      "kebab-case"
+    ],
     "no-output-on-prefix": true,
     "no-inputs-metadata-property": true,
     "no-outputs-metadata-property": true,
